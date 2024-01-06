@@ -1,0 +1,72 @@
+baseURL: http://sumedhaasanjeevan.com
+title: Sumedhaa
+paginate: 6
+theme: charlolamode
+
+
+
+menu:
+    main:
+        - name: About
+          url: about/
+          weight: 30
+    
+
+
+params:
+    author: Sumedhaa
+    description: Hi, I am Sumedhaa, a Software Developer at FactSet and Cloud & Data enthusiast.
+
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    profileMode:
+        enabled: true
+        title: Sumedhaa 👋
+        description: Ula
+        imageUrl: "/images/profile.jpg"
+        imageTitle: Sumedhaa
+        imageWidth: 200
+        imageHeight: 200
+        buttons:
+            - name: Don't click me
+              url: https://www.youtube.com/@sumedhaacodes
+
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/misticorion"
+        - name: youtube
+          url: "https://youtube.com/@sumedhaacodes"
+        - name: twitter
+          url: "https://twitter.com/Sumedhaa1"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/sumedhaa/"
+        - name: instagram
+          url: "https://instagram.com/sumedhaacodes"
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon.ico"
+          
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+

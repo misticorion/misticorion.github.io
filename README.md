@@ -1,3 +1,4 @@
-# misticorion.github.io
+### sumedhaa.sanjeevan
 
-In the process of creating my personal portfolio!
+Hi, I am Sumedhaa and this is my personal portfolio based on [theme template](https://github.com/nanxiaobei/hugo-paper).
+
