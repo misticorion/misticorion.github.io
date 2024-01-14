@@ -40,8 +40,8 @@ params:
         imageWidth: 200
         imageHeight: 200
         buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/@sumedhaacodes
+            - name: Coffee & Collab ☕️ 
+              url: https://topmate.io/sumedhaa
 
     mainSections:
       - articles

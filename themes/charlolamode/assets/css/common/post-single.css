@@ -353,6 +353,12 @@
     transition: transform 0.1s;
 }
 
+.share-buttons a svg:hover {
+    transform: scale(0.9); /* Subtle scaling effect */
+    filter: brightness(110%); /* Slight brightening */
+    color: rgb(72, 135, 254);
+}
+
 .share-buttons svg:active {
     transform: scale(0.96);
 }
