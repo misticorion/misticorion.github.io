@@ -7,7 +7,7 @@ type: list
 
 
 
-{{< resume "https://drive.google.com/file/d/1NIjJMnOP6XguShgq9lqsRiS4k7YBWDg6/view?usp=sharing" >}}  
+{{< resume "https://drive.google.com/file/d/1T4t5JucvdeFjWn0SVyHmhO3VkY0_Al66/view?usp=sharing" >}}  
 
 
 
